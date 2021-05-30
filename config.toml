@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "es-CL"
+title = "Diego Belmar"
+theme = "dimension"
